@@ -361,7 +361,7 @@
     width: calc((100% - 48px) / 3);
 }
 
-.portfolio-title-andparagraph{
+.portfolio-title-and-paragraph{
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
