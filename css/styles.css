@@ -52,6 +52,11 @@
 .list{
     list-style: none;
 }
+.address-list{
+    display: flex;
+    gap: 40px;
+}
+
 .header-list{
     display: flex;
     gap: 40px;
