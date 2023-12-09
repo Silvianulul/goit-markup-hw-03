@@ -207,6 +207,7 @@
 /* Section4 */
 .fourth-section{
     background-color: #F4F4FD;
+    padding: 120px 0;
 }
 
 .fourth-section-title{
@@ -217,6 +218,12 @@
     letter-spacing: 0.02em;
     text-transform: capitalize;
     background-color: #FFFFFFFF;
+    margin-bottom: 72px;
+}
+
+.foruth-section-list{
+    display: flex;
+    gap: 24px;
 }
 
 .background-list-fourth-section{
