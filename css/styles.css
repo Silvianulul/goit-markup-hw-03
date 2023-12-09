@@ -3,6 +3,10 @@
     --maincolor: 434455;
 }
 
+.img{
+    display: block;
+}
+
 .header-class{
     border-bottom: 1px solid #e7e9fc
 }
