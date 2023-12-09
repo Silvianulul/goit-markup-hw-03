@@ -3,6 +3,20 @@
     --maincolor: 434455;
 }
 
+.header-class{
+    border-bottom: 1px solid #e7e9fc
+}
+
+.header-div{
+    display: flex;
+}
+
+.container{
+    width: 1158;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
 .body-studio{
     font-family: "Roboto", sans-serif;
     color: #434455;
