@@ -52,7 +52,7 @@
 .list{
     list-style: none;
 }
-.list-header{
+.header-list{
     display: flex;
     gap: 40px;
 }
