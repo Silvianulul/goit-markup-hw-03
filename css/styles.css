@@ -354,7 +354,7 @@
 }
 
 .portfolio-list-element {
-  width: calc((100% - 264px) / 3);
+  width: calc((100% - 48px) / 3);
 }
 
 .portfolio-title-and-paragraph {
