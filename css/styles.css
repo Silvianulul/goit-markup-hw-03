@@ -355,6 +355,7 @@
 
 .portfolio-list-element {
   width: calc((100% - 48px) / 3);
+  text-decoration: none;
 }
 
 .portfolio-title-and-paragraph {
